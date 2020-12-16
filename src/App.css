@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+html,
+body,
+#root {
+
+  font: 0.9rem sans-serif;
+  background:#282C34 !important;
+  color: #1e2432;
+  margin: 0;
+}
+.heading{
+  text-align:center;
+
+  color:black;
+}
